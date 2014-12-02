@@ -1,0 +1,43 @@
+header p{
+  margin: 1em auto;
+  text-align: center;
+  font-size:1.5em;
+}
+
+form {
+  margin: 1em auto;
+  text-align: center;
+}
+
+#search {
+  size: 50px;
+  width:400px;
+  height: 30px;
+}
+
+#submit {
+  /*size: 3;*/
+  font-size: 1.2em;
+  font: Candara;
+  width: auto;
+  height: auto;
+  box-shadow: 1px 1px 3px 1px black;
+  background-color: blue;
+  outline:0;
+  line-height: 2em;
+}
+
+ul {
+  margin-top:2em;
+}
+
+ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 0.23em;
+}
+
+.images{
+  width:10em;
+  height:10em;
+}
